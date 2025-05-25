@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512344077198",
+    "project_id": "project-for-cloud-comput-82d21",
+    "storage_bucket": "project-for-cloud-comput-82d21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512344077198:android:e7a547d3b3b24564a46adf",
+        "android_client_info": {
+          "package_name": "com.example.snobia_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2EWtbRoYcWO5vgAMSbq1HM49wmdUmK7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
